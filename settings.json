@@ -1,0 +1,16 @@
+{
+    "name": "Savants1001",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "collectible",
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Savants",
+        "/category/asset_value_tracking/core-token/symbol": "sav",
+        "/category/asset_value_tracking/core-token/supply": "10000000000",
+        "/category/asset_value_tracking/core-token/decimals": "18"
+    }
+}
